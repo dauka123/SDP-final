@@ -19,4 +19,3 @@ class LedHeadlightsDecorator extends CarDecorator {
         return getName() + " - Price: $" + getPrice();
     }
 }
-
